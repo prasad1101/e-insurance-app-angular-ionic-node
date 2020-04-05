@@ -1,0 +1,101 @@
+<!--Profile- Profile 1-->
+<ion-content>
+  <ion-grid *ngIf="data != null">
+    <ion-row>
+      <ion-col col-12>
+        <ion-card transparent text-center>
+          <ion-item box-shadow transparent text-center *ngIf="data != null" background-size
+            [ngStyle]="{'background-image': 'url(' + data.headerImage + ')'}">
+            <ion-avatar>
+              <img [src]="data.image" alt="">
+            </ion-avatar>
+            <h1 item-title>{{data.title}}</h1>
+            <p text-wrap item-title>{{data.subtitle}}</p>
+          </ion-item>
+          <ion-row no-padding margin-top>
+            <!-- <ion-col>
+            <button ion-button button-clear clear no-padding>
+              <span small-font font-bold ion-text color="accent">{{data.valueFollowers}}</span>
+              <span ion-text text-capitalize color="accent">{{data.followers}}</span>
+            </button>
+          </ion-col>
+          <ion-col>
+            <button ion-button button-clear clear no-padding>
+              <span small-font font-bold ion-text color="accent">{{data.valueFollowing}}</span>
+              <span ion-text text-capitalize color="accent">{{data.following}}</span>
+            </button>
+          </ion-col>
+          <ion-col>
+            <button ion-button button-clear clear no-padding>
+              <span small-font font-bold ion-text color="accent">{{data.valuePosts}}</span>
+              <span ion-text text-capitalize color="accent">{{data.posts}}</span>
+            </button>
+          </ion-col> -->
+            <!-- Social Button-->
+            <ion-col col-12 text-center>
+              <button ion-button button-icon icon-only button-icon (click)="getOtp()">
+                <ion-icon icon-small name="md-archive"></ion-icon>
+              </button>
+
+              <!--<button ion-button icon-only button-icon (click)="onEvent('onTwitter', item, $event)">
+                <ion-icon icon-small name="{{data.iconTwitter}}"></ion-icon>
+              </button> -->
+
+              <!-- <button ion-button icon-only button-icon (click)="onEvent('onInstagram', item, $event)">
+                <ion-icon icon-small name="{{data.iconInstagram}}"></ion-icon>
+              </button> -->
+
+            </ion-col>
+            <!-- Info Author-->
+            <div *ngIf="customer != null">
+              <ion-col col-12 text-left margin-top box-shadow *ngFor="let item of data.items;let i = index">
+                <ion-item transparent>
+                  <h1 subitem-title ion-text>Private Data</h1>
+                  <p subitem-subtitle padding-top text-wrap>This data is secured with biometric and otp !!</p>
+                  <p>{{customer.name}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Policy No.</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.policyNo}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Sum Assurred</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.sumAssured}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Plan</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.Plan}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Policy Term</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.term}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Mobile No.</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.mobile}}</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Issued By</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.location}} Division</p>
+                </ion-item>
+                <ion-item no-lines transparent>
+                  <h1 subitem-title ion-text>Purpose</h1>
+                  <ion-icon icon-medium [name]="md-archive" item-start></ion-icon>
+                  <p no-margin subitem-title>{{customer.purpose}}</p>
+                </ion-item>
+
+              </ion-col>
+            </div>
+
+          </ion-row>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

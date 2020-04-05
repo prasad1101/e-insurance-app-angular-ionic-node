@@ -1,0 +1,208 @@
+<div id="wrapper">
+
+    <!-- Header Container
+================================================== -->
+    <app-header></app-header>
+    <!-- Header Container / End -->
+
+
+    <!-- Dashboard Container -->
+    <div class="dashboard-container">
+
+        <!-- Dashboard Sidebar
+	================================================== -->
+        <app-sidebar></app-sidebar>
+        <!-- Dashboard Sidebar / End -->
+
+
+        <!-- Dashboard Content
+	================================================== -->
+        <div class="dashboard-content-container" data-simplebar="">
+            <div class="dashboard-content-inner">
+
+                <!-- Dashboard Headline -->
+                <div class="dashboard-headline">
+                    <h3>Register New Policy</h3>
+
+                    <!-- Breadcrumbs -->
+                    <nav id="breadcrumbs" class="dark">
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Dashboard</a></li>
+                            <li>Register Policy</li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <!-- Row -->
+                <div class="row">
+
+                    <!-- Dashboard Box -->
+                    <div class="col-xl-12">
+                        <div class="dashboard-box margin-top-0">
+
+                            <!-- Headline -->
+                            <div class="headline">
+                                <h3><i class="icon-feather-folder-plus"></i> {{registerStatus}}</h3>
+                            </div>
+
+                            <div class="content with-padding padding-bottom-10">
+                                <div class="row">
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Policy No.</h5>
+                                            <input [(ngModel)]="registerReq.policyNo" type="text" class="with-border">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Policy Holder Name</h5>
+                                            <input type="text" [(ngModel)]="registerReq.name" class="with-border">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Mobile</h5>
+                                            <input type="text" [(ngModel)]="registerReq.mobile" class="with-border">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Policy Plan</h5>
+                                            <select [(ngModel)]="registerReq.plan" class="selectpicker with-border"
+                                                data-size="7" title="Select Job Type">
+                                                <option>Term Plan</option>
+                                                <option>Endowment Plan</option>
+                                                <option>Pension Plan</option>
+                                                <option>Child Plan</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Policy Term(years)</h5>
+                                            <select [(ngModel)]="registerReq.term" class="selectpicker with-border"
+                                                data-size="7" title="Select Category">
+                                                <option>10</option>
+                                                <option>15</option>
+                                                <option>20</option>
+                                                <option>25</option>
+                                                <option>30</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Location</h5>
+                                            <div class="input-with-icon">
+                                                <div id="autocomplete-container">
+                                                    <input [(ngModel)]="registerReq.location" id="autocomplete-input"
+                                                        class="with-border" type="text" placeholder="Type Address">
+                                                </div>
+                                                <i class="icon-material-outline-location-on"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Sum Assured</h5>
+                                            <div class="row">
+                                                <div class="col-xl-6">
+                                                    <div class="input-with-icon">
+                                                        <input [(ngModel)]="registerReq.sumAssured" class="with-border"
+                                                            type="text" placeholder="RS">
+                                                        <i class="currency">INR</i>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4">
+                                        <div class="submit-field">
+                                            <h5>Purpose <span>(optional)</span> <i class="help-icon"
+                                                    data-tippy-placement="right" title="Maximum of 10 tags"></i></h5>
+                                            <div class="keywords-container">
+                                                <div class="keyword-input-container">
+                                                    <input [(ngModel)]="registerReq.purpose" type="text"
+                                                        class="keyword-input with-border"
+                                                        placeholder="e.g. Future Investment, Savings">
+                                                    <button class="keyword-input-button ripple-effect"><i
+                                                            class="icon-material-outline-add"></i></button>
+
+                                                </div>
+                                                <div class="keywords-list">
+                                                    <!-- keywords go here -->
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!-- <div class="col-xl-12">
+                                        <div class="submit-field">
+                                            <h5>Job Description</h5>
+                                            <textarea cols="30" rows="5" class="with-border"></textarea>
+                                            <div class="uploadButton margin-top-30">
+                                                <input class="uploadButton-input" type="file"
+                                                    accept="image/*, application/pdf" id="upload" multiple>
+                                                <label class="uploadButton-button ripple-effect" for="upload">Upload
+                                                    Photo</label>
+                                                <span class="uploadButton-file-name">Images or documents that might be
+                                                    helpful in describing your Profile</span>
+                                            </div>
+                                        </div>
+                                    </div> -->
+
+                                    <div class="col-xl-12">
+                                        <div class="submit-field">
+                                            <!-- <h5>Job Description</h5>
+                                            <textarea cols="30" rows="5" class="with-border"></textarea> -->
+                                            <div class="uploadButton margin-top-30">
+
+                                                <button (click)="registerCustomer()"
+                                                    class="uploadButton-button ripple-effect"
+                                                    for="upload">Submit</button>
+                                                <span class="uploadButton-file-name"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="col-xl-12">
+                        <a href="#" class="button ripple-effect big margin-top-30"><i class="icon-feather-plus"></i>
+                            Post a Job</a>
+                    </div> -->
+
+                </div>
+                <!-- Row / End -->
+
+                <!-- Footer -->
+                <app-footer></app-footer>
+                <!-- Footer / End -->
+
+            </div>
+        </div>
+        <!-- Dashboard Content / End -->
+
+    </div>
+    <!-- Dashboard Container / End -->
+
+</div>

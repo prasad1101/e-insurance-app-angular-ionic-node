@@ -1,0 +1,1898 @@
+{
+  "dashboard-summary": {
+    "bidsWon": 22,
+    "jobsApplied": 10,
+    "reviews": 30,
+    "monthViews": 592,
+    "payments": [
+      {
+        "credits": 595,
+        "status": "unpaid",
+        "orderId": 585622516,
+        "recepient": "ankita-123yyjsdbfiuwealsdlkqwel",
+        "sender": "bhushan-123yyjsdbfiuwealsdlkqwel",
+        "title": "Payment request for milestone 1",
+        "projectInfo": {
+          "title": "Make things better",
+          "bidId": 12334535229093,
+          "projectId": 9651981919191
+        },
+        "requestedOn": 1548216124586
+      },
+      {
+        "credits": 695,
+        "status": "paid",
+        "orderId": 5856258,
+        "recepient": "ankita-123yyjsdbfiuwealsdlkqwel",
+        "sender": "bhushan-123yyjsdbfiuwealsdlkqwel",
+        "requestedOn": 1548216207668,
+        "title": "Payment request for milestone 2",
+        "projectInfo": {
+          "title": "Make things better",
+          "bidId": 12334535229093,
+          "projectId": 9651981919191
+        }
+      },
+      {
+        "credits": 52,
+        "status": "rejected",
+        "orderId": 55985289,
+        "recepient": "ankita-123yyjsdbfiuwealsdlkqwel",
+        "sender": "bhushan-123yyjsdbfiuwealsdlkqwel",
+        "title": "Payment request for milestone 3",
+        "projectInfo": {
+          "title": "Make things better",
+          "bidId": 12334535229093,
+          "projectId": 9651981919191
+        },
+        "requestedOn": 1548216124586
+      }
+    ]
+  },
+  "users": [
+    {
+      "userId": "bhushan-123yyjsdbfialsdlkqwel",
+      "name": "Bhushan",
+      "email": "er.mr.bhushan@gmail.com",
+      "password": "Bhushan0310",
+      "shortDescription": "Hello I'm good in using android phones",
+      "about": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan",
+        "bigImg": "assets/images/user-avatar-small-02.jpg"
+      },
+      "skills": "Full stack developer",
+      "hourlyRate": "3",
+      "projectCount": "18",
+      "channelId": "bhushan-123jnsdfiu3dkfweiurnsdf",
+      "workHistory": {
+        "workProfile": "Web, Database and API Developer",
+        "ratingType": "Rated as Freelancer",
+        "date": "August 2018",
+        "description": "Excellent programmer - fully carried out my project in a very professional manner."
+      },
+      "employementHistory": {
+        "img": "assets/images/browse-companies-03.jpg",
+        "businessName": " Acodia",
+        "employeProfile": "Development Team Leader",
+        "dateRange": {
+          "start": "August 2018",
+          "end": "Present"
+        },
+        "description": "Focus the team on the tasks at hand or the internal and external customer requirements."
+      }
+    },
+    {
+      "userId": "prasad-123yyjsdbfialsdlkqwel",
+      "name": "Prasad",
+      "email": "prasad@gmail.com",
+      "password": "prasad",
+      "shortDescription": "Hello I'm good in using android phones",
+      "about": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+      "profile": {
+        "img": "assets/images/user-avatar-small-03.jpg",
+        "name": "Prasad",
+        "bigImg": "assets/images/user-avatar-small-02.jpg"
+      },
+      "skills": "Angular + Node Dev",
+      "hourlyRate": "2",
+      "projectCount": "10",
+      "channelId": "prasad-123jnsdfiu3dkfweiurnsdf",
+      "workHistory": {
+        "workProfile": "WordPress Theme Installation",
+        "ratingType": "Rated as Freelancer",
+        "date": "June 2018",
+        "description": "Excellent programmer - fully carried out my project in a very professional manner."
+      },
+      "employementHistory": {
+        "img": "assets/images/browse-companies-03.jpg",
+        "businessName": "XYZ",
+        "employeProfile": "Development Team Member",
+        "dateRange": {
+          "start": "August 2018",
+          "end": "Present"
+        },
+        "description": "Focus the team on the tasks at hand or the internal and external customer requirements."
+      }
+    },
+    {
+      "userId": "ankita-123yyjsdbfialsdlkqwel",
+      "name": "Ankita",
+      "skills": "Android",
+      "shortDescription": "Hello I'm good in using android phones",
+      "about": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Ankita",
+        "bigImg": "assets/images/user-avatar-small-02.jpg"
+      },
+      "hourlyRate": "4",
+      "projectCount": "23",
+      "channelId": "ankita-123jnsdfiu3dkfweiurnsdf",
+      "workHistory": {
+        "workProfile": "Fix Python Selenium Code",
+        "ratingType": "Rated as Employer",
+        "date": "May 2018",
+        "description": "Awesome work, definitely will rehire. Poject was completed not only with the requirements, but on time, within our small budget."
+      },
+      "employementHistory": {
+        "img": "assets/images/browse-companies-04.jpg",
+        "businessName": "Acorta",
+        "employeProfile": "Lead UX/UI Designer",
+        "dateRange": {
+          "start": "April 2014",
+          "end": "May 2018"
+        },
+        "description": "I designed and implemented 10+ custom web-based CRMs, workflow systems, payment solutions and mobile apps."
+      }
+    }
+  ],
+  "notifications": [
+    {
+      "isRead": false,
+      "text": "Your job listing Full Stack Software Engineer is expiring",
+      "sentOn": 1547969882278,
+      "type": "notification"
+    },
+    {
+      "isRead": false,
+      "text": "Sindy Forrest applied for a job Full Stack Software Engineer",
+      "sentOn": 1547969882278,
+      "type": "job-application"
+    },
+    {
+      "isRead": false,
+      "text": "David Peterson left you a  rating after finishing Logo Design task",
+      "sentOn": 1547969882278,
+      "type": "rating"
+    },
+    {
+      "isRead": false,
+      "text": "Gilber Allanis placed a bid on your iOS App Development project",
+      "sentOn": 1547969882278,
+      "type": "bid-placed"
+    },
+    {
+      "isRead": false,
+      "text": "Michael Shannah applied for a job Full Stack Software Engineer",
+      "sentOn": 1547969882278,
+      "type": "job-application"
+    }
+  ],
+  "chat-headers": [
+    {
+      "userId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "name": "Bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "lastMsg": "Thanks Man !",
+      "sentOn": 1547969882278,
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf"
+    },
+    {
+      "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+      "name": "Prasad",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-03.jpg",
+        "name": "Prasad"
+      },
+      "lastMsg": "This is amazing deal !",
+      "sentOn": 1547969882278,
+      "channelId": "prasad-123jnsdfiu3kjsddkfweiurnsfhhj"
+    },
+    {
+      "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "name": "Ankita",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Ankita"
+      },
+      "lastMsg": "Awesome  !",
+      "sentOn": 1547969882278,
+      "channelId": "ankita-123jnsdfiu3kjsddkfwelkmdgf"
+    }
+  ],
+  "messages": [
+    {
+      "from": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "to": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969877281
+    },
+    {
+      "from": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "to": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969882278
+    },
+    {
+      "from": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "to": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969887278
+    },
+    {
+      "from": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "to": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969892278
+    },
+    {
+      "from": "ankita-123yyjsdbfiuwealsdlkqwel",
+      "to": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969897279
+    },
+    {
+      "from": "prasad-123yyjsdbfiuwealsdlkqwel",
+      "to": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Hello from Prasad",
+      "sentOn": 1547969902279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969907279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969912280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969917281
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969922279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969927279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969932280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969937278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969942278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969947278
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969952279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969957280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969962279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969967280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969972278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969977278
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969982280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547969987280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547969992279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547969997280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970002279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970007280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970012281
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970017281
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970022280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970027280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970032279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970037279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970042280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970047280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970052281
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970057281
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970062279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970067280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970072279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970077279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970082278
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970087278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970092279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970097280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970102280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970107279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970112280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970117279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970122280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970127278
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970132280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970137279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970142279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970147280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970152279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970157279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970161662
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970167278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970172279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970177280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970182279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970186660
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970192281
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970197279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970202280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970207279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970212280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970217280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970222279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970227281
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970232279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970237280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970242280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970247279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970252279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970257279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970262280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970266761
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970272279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970277279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970282279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970287279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970292282
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970297279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970302278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970307279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970312280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970317279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970322279
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970327278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970332278
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970337280
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970342280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970347279
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Thanks for choosing my offer. I will start working on your project tomorrow.",
+      "sentOn": 1547970352278
+    },
+    {
+      "from": "alexa",
+      "to": "bhushan",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-02.jpg",
+        "name": "Alexa"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Great. If you need any further clarification let me know. 👍",
+      "sentOn": 1547970357280
+    },
+    {
+      "from": "bhushan",
+      "to": "alexa",
+      "shortDescription": "Hello I'm good in using android phones",
+      "profile": {
+        "img": "assets/images/user-avatar-small-01.jpg",
+        "name": "Bhushan"
+      },
+      "channelId": "bhushan-123jnsdfiu3kjsddkfweiurnsdf",
+      "msg": "Ok I will !",
+      "sentOn": 1547970362280
+    }
+  ],
+  "projects": [
+    {
+      "hidebids": false,
+      "bidperiod": 7,
+      "featured": false,
+      "preview_description": "I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchang",
+      "projectStatus": "open",
+      "id": 23445645656456,
+      "negotiated": false,
+      "title": "Build me a POS Software for a Garment Retail Store",
+      "companyImg": "assets/images/company-logo-01.png",
+      "companyName": "Tech Pvt Ltd",
+      "submitdate": 1547317016,
+      "type": "fixed",
+      "ownerId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "status": "active",
+      "tags": [
+        {
+          "name": "PHP",
+          "id": 3
+        },
+        {
+          "name": "Java",
+          "id": 7
+        },
+        {
+          "name": "Website Design",
+          "id": 17
+        },
+        {
+          "name": "Software Architecture",
+          "id": 116
+        },
+        {
+          "name": "MySQL",
+          "id": 305
+        }
+      ],
+      "description": "I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchange of clothes using Barcode. Please Check the attached files for more details",
+      "deleted": false,
+      "time_updated": 1547313416,
+      "language": "en",
+      "urgent": false,
+      "createdOn": 1547317016,
+      "budget": {
+        "minimum": 12500.0,
+        "maximum": 37500.0
+      },
+      "bid_stats": {
+        "bid_count": 4,
+        "bid_avg": 27777.0
+      },
+      "attachments": [
+        {
+          "id": "5c488253f12ecc5ebae308f3",
+          "fileName": "Angular test.pdfWed Jan 23 15:03:47 UTC 2019",
+          "fileDownloadUri": "http://service.originscan.com:8082/downloadFile/Angular%20test.pdfWed%20Jan%2023%2015:03:47%20UTC%202019",
+          "fileType": "application/pdf",
+          "size": 49331
+        },
+        {
+          "id": "5c48827ef12ecc5ebae308f4",
+          "fileName": "Mr Bhushan Pawar.pdfWed Jan 23 15:04:30 UTC 2019",
+          "fileDownloadUri": "http://service.originscan.com:8082/downloadFile/Mr%20Bhushan%20Pawar.pdfWed%20Jan%2023%2015:04:30%20UTC%202019",
+          "fileType": "application/pdf",
+          "size": 75216
+        }
+      ],
+      "bids": [
+        {
+          "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+          "name": "Prasad",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-03.jpg",
+            "name": "prasad"
+          },
+          "bidId": 982734927394234,
+          "bidAmount": 9903,
+          "estimatedTime": "7M"
+        },
+        {
+          "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+          "name": "Ankita",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-02.jpg",
+            "name": "Ankita"
+          },
+          "bidId": 12234381293810231028312,
+          "bidAmount": 94,
+          "estimatedTime": "8d"
+        }
+      ]
+    },
+    {
+      "hidebids": false,
+      "bidperiod": 7,
+      "featured": false,
+      "preview_description": "I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchang",
+      "projectStatus": "open",
+      "id": 18513186,
+      "negotiated": false,
+      "title": "Pokemon catcher required",
+      "companyImg": "assets/images/company-logo-06.png",
+      "companyName": "Techno Pvt Ltd",
+      "submitdate": 1547317016,
+      "type": "fixed",
+      "ownerId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "status": "active",
+      "tags": [
+        {
+          "name": "PHP",
+          "id": 3
+        },
+        {
+          "name": "Java",
+          "id": 7
+        },
+        {
+          "name": "Website Design",
+          "id": 17
+        },
+        {
+          "name": "Software Architecture",
+          "id": 116
+        },
+        {
+          "name": "MySQL",
+          "id": 305
+        }
+      ],
+      "description": "I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchange of clothes using Barcode. Please Check the attached files for more details",
+      "deleted": false,
+      "time_updated": 1547313416,
+      "language": "en",
+      "urgent": false,
+      "createdOn": 1547317016,
+      "budget": {
+        "minimum": 12500.0,
+        "maximum": 37500.0
+      },
+      "bid_stats": {
+        "bid_count": 4,
+        "bid_avg": 27777.0
+      },
+      "attachments": [
+        {
+          "id": "5c48837af12ecc5ebae308f5",
+          "fileName": "OriginScan Admin Panel.htmlWed Jan 23 15:08:42 UTC 2019",
+          "fileDownloadUri": "http://service.originscan.com:8082/downloadFile/OriginScan%20Admin%20Panel.htmlWed%20Jan%2023%2015:08:42%20UTC%202019",
+          "fileType": "text/html",
+          "size": 19433
+        }
+      ],
+      "bids": [
+        {
+          "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+          "name": "Prasad",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-03.jpg",
+            "name": "prasad"
+          },
+          "bidId": 92734239874342,
+          "bidAmount": 983,
+          "estimatedTime": "30d"
+        },
+        {
+          "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+          "name": "Ankita",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-02.jpg",
+            "name": "Ankita"
+          },
+          "bidId": 12234381223493810231028312,
+          "bidAmount": 355,
+          "estimatedTime": "8h"
+        }
+      ]
+    },
+    {
+      "hidebids": false,
+      "bidperiod": 7,
+      "featured": false,
+      "preview_description": "second I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchang",
+      "projectStatus": "open",
+      "id": 987234234023408234,
+      "negotiated": false,
+      "title": "Good project for pokemon",
+      "companyImg": "assets/images/company-logo-03.png",
+      "companyName": "GamingTech",
+      "submitdate": 1547317016,
+      "type": "fixed",
+      "ownerId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "status": "active",
+      "tags": [
+        {
+          "name": "PHP",
+          "id": 3
+        },
+        {
+          "name": "Java",
+          "id": 7
+        },
+        {
+          "name": "Website Design",
+          "id": 17
+        },
+        {
+          "name": "Software Architecture",
+          "id": 116
+        },
+        {
+          "name": "MySQL",
+          "id": 305
+        }
+      ],
+      "description": "I have a Kids Garment Store. I require a POS , that can handle purchase , Sale , Returns and Exchange of clothes using Barcode. Please Check the attached files for more details",
+      "deleted": false,
+      "time_updated": 1547313416,
+      "language": "en",
+      "urgent": false,
+      "createdOn": 1547317016,
+      "budget": {
+        "minimum": 12500.0,
+        "maximum": 37500.0
+      },
+      "bid_stats": {
+        "bid_count": 4,
+        "bid_avg": 27777.0
+      },
+      "attachments": [
+        {
+          "id": "5c4883aff12ecc5ebae308f7",
+          "fileName": "sponaneous-waffles.zipWed Jan 23 15:09:35 UTC 2019",
+          "fileDownloadUri": "http://service.originscan.com:8082/downloadFile/sponaneous-waffles.zipWed%20Jan%2023%2015:09:35%20UTC%202019",
+          "fileType": "application/zip",
+          "size": 25070
+        }
+      ],
+      "bids": [
+        {
+          "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+          "name": "Prasad",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-03.jpg",
+            "name": "Prasad"
+          },
+          "bidId": 12381293810231028312,
+          "bidAmount": 123,
+          "estimatedTime": "7h"
+        },
+        {
+          "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+          "name": "Ankita",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-02.jpg",
+            "name": "Ankita"
+          },
+          "bidId": 12234381293810231028312,
+          "bidAmount": 893,
+          "estimatedTime": "9h"
+        }
+      ]
+    }
+  ],
+  "project-categories": [
+    {
+      "catId": 98273462342398472,
+      "img": "assets/images/job-category-01.jpg",
+      "projectCount": 84,
+      "displayName": "Web / Software development",
+      "tags": [
+        "php",
+        "angular",
+        "html",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "catId": 982737642398472,
+      "img": "assets/images/job-category-02.jpg",
+      "projectCount": 72,
+      "displayName": "Data Science / Analitycs",
+      "tags": [],
+      "id": 7
+    },
+    {
+      "catId": 98273462365498472,
+      "img": "assets/images/job-category-03.jpg",
+      "projectCount": 45,
+      "displayName": "Accounting / Consulting",
+      "tags": [],
+      "id": 17
+    },
+    {
+      "catId": 9827652342398473,
+      "img": "assets/images/job-category-04.jpg",
+      "projectCount": 38,
+      "displayName": "Writing & Translations",
+      "tags": [],
+      "id": 116
+    },
+    {
+      "catId": 98739847987664,
+      "img": "assets/images/job-category-05.jpg",
+      "projectCount": 56,
+      "displayName": "Sales & Marketing",
+      "tags": [],
+      "id": 455
+    },
+    {
+      "catId": 987398479877684,
+      "img": "assets/images/job-category-06.jpg",
+      "projectCount": 66,
+      "displayName": "Graphics & Design",
+      "tags": [],
+      "id": 95
+    },
+    {
+      "catId": 6408799847987664,
+      "img": "assets/images/job-category-07.jpg",
+      "projectCount": 53,
+      "displayName": "Digital Marketing",
+      "tags": [],
+      "id": 30
+    },
+    {
+      "catId": 21247987664,
+      "img": "assets/images/job-category-08.jpg",
+      "projectCount": 79,
+      "displayName": "Education & Training",
+      "tags": [],
+      "id": 102
+    }
+  ],
+  "similar-projects": [
+    {
+      "hidebids": false,
+      "bidperiod": 7,
+      "featured": false,
+      "preview_description": "I have a Goods Store. I require a POS , that can handle purchase , Sale , Returns and Exchang",
+      "projectStatus": "open",
+      "id": 7546545656456,
+      "negotiated": false,
+      "companyName": "Tech Pvt Ltd",
+      "title": "Build me a POS Software for a Goods Retail Store",
+      "submitdate": 1547317016,
+      "type": "fixed",
+      "ownerId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "status": "active",
+      "tags": [
+        {
+          "name": "PHP",
+          "id": 3
+        },
+        {
+          "name": "Java",
+          "id": 7
+        },
+        {
+          "name": "Website Design",
+          "id": 17
+        },
+        {
+          "name": "Software Architecture",
+          "id": 116
+        },
+        {
+          "name": "MySQL",
+          "id": 305
+        }
+      ],
+      "description": "I have a Goods Store. I require a POS , that can handle purchase , Sale , Returns and Exchange of Goods using Barcode. Please Check the attached files for more details",
+      "deleted": false,
+      "time_updated": 1547313416,
+      "language": "en",
+      "urgent": false,
+      "createdOn": 1547317016,
+      "estimatedTime": "7M",
+      "budget": {
+        "minimum": 12500.0,
+        "maximum": 37500.0
+      },
+      "bid_stats": {
+        "bid_count": 4,
+        "bid_avg": 27777.0
+      },
+      "bids": [
+        {
+          "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+          "name": "Prasad",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-03.jpg",
+            "name": "prasad"
+          },
+          "bidId": 982734927394234,
+          "bidAmount": 9903,
+          "estimatedTime": "7M"
+        },
+        {
+          "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+          "name": "Ankita",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-02.jpg",
+            "name": "Ankita"
+          },
+          "bidId": 12234381293810231028312,
+          "bidAmount": 94,
+          "estimatedTime": "8d"
+        }
+      ]
+    },
+    {
+      "hidebids": false,
+      "bidperiod": 7,
+      "featured": false,
+      "preview_description": "I have a all Garment Store for both girls and boys. I require a POS , that can handle purchase , Sale , Returns and Exchang",
+      "projectStatus": "open",
+      "id": 43255656456,
+      "negotiated": false,
+      "companyName": "TechSoft",
+      "title": "Build me a POS Software for a Goods Wholesale Store",
+      "submitdate": 1547317016,
+      "type": "fixed",
+      "ownerId": "bhushan-123yyjsdbfiuwealsdlkqwel",
+      "status": "active",
+      "estimatedTime": "6d",
+      "tags": [
+        {
+          "name": "PHP",
+          "id": 3
+        },
+        {
+          "name": "Java",
+          "id": 7
+        },
+        {
+          "name": "Website Design",
+          "id": 17
+        },
+        {
+          "name": "Software Architecture",
+          "id": 116
+        },
+        {
+          "name": "MySQL",
+          "id": 305
+        }
+      ],
+      "description": "I have a all Garment Store for both girls and boys. I require a POS , that can handle purchase , Sale , Returns and Exchange of clothes using Barcode. Please Check the attached files for more details",
+      "deleted": false,
+      "time_updated": 1547313416,
+      "language": "en",
+      "urgent": false,
+      "createdOn": 1547317016,
+      "budget": {
+        "minimum": 12500.0,
+        "maximum": 37500.0
+      },
+      "bid_stats": {
+        "bid_count": 4,
+        "bid_avg": 27777.0
+      },
+      "bids": [
+        {
+          "userId": "prasad-123yyjsdbfiuwealsdlkqwel",
+          "name": "Prasad",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-03.jpg",
+            "name": "prasad"
+          },
+          "bidId": 982734927394234,
+          "bidAmount": 9903,
+          "estimatedTime": "7M"
+        },
+        {
+          "userId": "ankita-123yyjsdbfiuwealsdlkqwel",
+          "name": "Ankita",
+          "shortDescription": "Hello I'm good in using android phones",
+          "profile": {
+            "img": "assets/images/user-avatar-small-02.jpg",
+            "name": "Ankita"
+          },
+          "bidId": 12234381293810231028312,
+          "bidAmount": 94,
+          "estimatedTime": "8d"
+        }
+      ]
+    }
+  ]
+}

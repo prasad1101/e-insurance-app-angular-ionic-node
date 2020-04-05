@@ -1,0 +1,17 @@
+{
+    "serverName": "E-insurance app",
+    "port": 8901,
+    "sslPort": 8902,
+    "isDebugMode": true,
+    "mongoURL": "mongodb://localhost/insurance",
+    "ssl": {
+        "privateKey": "/config/ssl/mybuddypro.key",
+        "sslCertificate": "/config/ssl/mybuddypro.crt",
+        "ca1": "/config/ssl/chain1.pem",
+        "ca2": "/config/ssl/fullchain1.pem"
+    },
+    "auth": {
+        "appSecret": "this is only known to me",
+        "expiresIn": 86400
+    }
+}

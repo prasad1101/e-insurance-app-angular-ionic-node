@@ -1,0 +1,45 @@
+<!--Theme Payment - Payment -->
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <div *ngIf="data != null">
+      <ion-title>{{data.title}}</ion-title>
+    </div>
+  </ion-navbar>
+</ion-header>
+<!-- Content -->
+<ion-content>
+  <ion-grid padding>
+    <ion-row padding *ngIf="data != null">
+      <ion-col col-12>
+        <img [src]="data.images" alt="">
+      </ion-col>
+      <ion-col col-12>
+        <ion-item margin-top no-lines box-shadow>
+          <ion-input no-margin type="text" [placeholder]="data.cardHolder" [(ngModel)]="paymentReq.userId">
+          </ion-input>
+        </ion-item>
+        <ion-item margin-top no-lines box-shadow>
+          <ion-input no-margin type="text" [placeholder]="data.cardNumber" [(ngModel)]="paymentReq.cardNo">
+          </ion-input>
+        </ion-item>
+        <ion-item margin-top no-lines box-shadow>
+          <ion-input type="text" [placeholder]="data.experienceDate" [(ngModel)]="paymentReq.policyNo">
+          </ion-input>
+        </ion-item>
+        <ion-item margin-top no-lines box-shadow>
+          <ion-input no-margin type="text" [placeholder]="data.amount" [(ngModel)]="paymentReq.amount"></ion-input>
+        </ion-item>
+        <ion-item margin-top no-lines box-shadow>
+          <ion-input no-margin type="text" [placeholder]="data.code" [(ngModel)]="paymentReq.cvv"></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col col-12 align-self-end>
+        <button ion-button button-clear-outline round outline block text-capitalizen *ngIf="data != null"
+          (click)="userPayment()">{{data.button}}</button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

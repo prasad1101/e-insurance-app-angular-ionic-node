@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Project contents should be self sufficient",
+        "description": "Whenever u posting a project it should have valid data, self explainatory and should not be changed frequently."
+    },
+    {
+        "title": "Avoid duplicate Project",
+        "warning": true,
+        "description": "Whenever u posting a project it should have valid data, self explainatory and should not be changed frequently."
+    },
+    {
+        "title": "Don't close projects if someone is working on it",
+        "description": "Whenever u posting a project it should have valid data, self explainatory and should not be changed frequently."
+    }
+]

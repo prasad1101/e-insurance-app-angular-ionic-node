@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prasad pawar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose-auto-increment": "^5.0.1",
+    "ngrok": "^3.1.0",
+    "nodemailer": "^5.0.0",
+    "nodemon": "^1.18.9",
+    "otplib": "^10.0.1",
+    "sendemail": "^3.4.0",
+    "simple-get": "^3.0.3"
+  }
+}

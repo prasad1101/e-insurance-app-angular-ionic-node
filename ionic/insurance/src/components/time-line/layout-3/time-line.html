@@ -1,0 +1,29 @@
+<!--Themes Line - Timeline With Comments -->
+<!--Themes Simple -->
+<ion-content>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col col-11 offset-1>
+        <ion-list margin-top>
+          <div item-block margin-bottom *ngFor="let payment of payments; let i= index"
+            (click)="onEvent('onItemClick', item, $event)">
+            <span font-bold small-font ion-text color="accent">{{payment.expiryDate}}</span>
+            <div item-avatar box-shadow>
+              <ion-item margin-top no-lines>
+                <ion-avatar item-start>
+                  <img src="https://res.cloudinary.com/brainethic/image/upload/v1520613022/prasad_zlt5l2.jpg">
+                </ion-avatar>
+                <h2 item-title><b>Name</b> : {{payment.userId}}</h2>
+                <h3 item-subtitle><b>Policy No</b> :{{payment.policyNo}}</h3>
+              </ion-item>
+              <div content padding-bottom>
+                <h3 text-wrap item-subtitle no-margin text-capitalize>{{payment.amount}} <b>INR</b></h3>
+              </div>
+            </div>
+          </div>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
