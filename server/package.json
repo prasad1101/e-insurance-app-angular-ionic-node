@@ -13,7 +13,7 @@
     "jsonwebtoken": "^8.4.0",
     "mongoose-auto-increment": "^5.0.1",
     "ngrok": "^3.1.0",
-    "nodemailer": "^5.0.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.9",
     "otplib": "^10.0.1",
     "sendemail": "^3.4.0",
