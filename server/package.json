@@ -17,6 +17,6 @@
     "nodemon": "^1.18.9",
     "otplib": "^10.0.1",
     "sendemail": "^3.4.0",
-    "simple-get": "^3.0.3"
+    "simple-get": "^4.0.1"
   }
 }
